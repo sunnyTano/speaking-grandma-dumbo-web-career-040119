@@ -8,7 +8,7 @@ elsif phrase.upcase
 else 
   puts "HUH?! SPEAK UP, SONNY!"
 end
-
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
