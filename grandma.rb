@@ -1,6 +1,7 @@
 # Write a speak_to_grandma method.
+string = "I LOVE YOU GRANDMA"
 def speak_to_grandma
-  if()
+  if(string === )
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
@@ -10,7 +11,7 @@ def speak_to_grandma
 # and yells back
 
 # NO, NOT SINCE 1938!
-
+=
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
