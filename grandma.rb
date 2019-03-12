@@ -1,5 +1,6 @@
 # Write a speak_to_grandma method.
-string = "I LOVE YOU GRANDMA"
+def speak_to_grandma(phrase)
+  if
 
 
 # Whatever you say to grandma, she should respond with
